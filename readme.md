@@ -1,0 +1,1 @@
+![Tests](https://github.com/GiulianoDecesares/gothub-actions/actions/workflows/test.yml/badge.svg)
