@@ -23,5 +23,5 @@ jobs:
           go get -u golang.org/x/lint/golint
       - name: Code analysis
         run: |
-          go vet ./..
-          golint -min_confidence 0.0 -set_exit_status ./..
+          go vet ./...
+          golint -min_confidence 0.0 -set_exit_status ./...
