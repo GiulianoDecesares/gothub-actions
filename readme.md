@@ -1,1 +1,2 @@
 ![Unit Testing](https://github.com/GiulianoDecesares/gothub-actions/actions/workflows/test.yml/badge.svg)
+![Code Quality](https://github.com/GiulianoDecesares/gothub-actions/actions/workflows/code-quality.yml/badge.svg)
